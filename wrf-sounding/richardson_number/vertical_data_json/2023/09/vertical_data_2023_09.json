@@ -23514,7 +23514,7 @@
             "height": 16706.0
           },
           {
-            "richardson_number": Infinity,
+            "richardson_number": null,
             "wind_speed": 8.0,
             "temperature": -76.6,
             "humidity": 33.0,
@@ -31938,7 +31938,7 @@
             "height": 36.0
           },
           {
-            "richardson_number": -Infinity,
+            "richardson_number": -null,
             "wind_speed": 1.7117242768623688,
             "temperature": 27.6,
             "humidity": 68.9,
